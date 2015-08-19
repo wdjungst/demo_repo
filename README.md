@@ -1,1 +1,1 @@
-Dave is telling the truth
+This is the README
