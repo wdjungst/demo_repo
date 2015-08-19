@@ -1,3 +1,3 @@
-#Do all the things
 #Study
+#Do all the things
 #Take Notes
